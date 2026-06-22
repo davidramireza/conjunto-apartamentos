@@ -44,7 +44,7 @@ export default function Navbar() {
             </div>
             <div>
               <span className="text-white font-bold text-lg tracking-tight block leading-tight">
-                Residencial <span className="text-accent">Paraíso</span>
+                <span className="text-accent">Cerro</span> Novaterra
               </span>
               <span className="text-gray-500 text-[10px] tracking-widest uppercase hidden sm:block">Conjunto Residencial</span>
             </div>

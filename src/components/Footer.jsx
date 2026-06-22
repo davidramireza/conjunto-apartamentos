@@ -32,7 +32,7 @@ export default function Footer() {
                 </svg>
               </div>
               <div>
-                <span className="text-white font-bold text-lg">Residencial <span className="text-accent">Paraíso</span></span>
+                <span className="text-white font-bold text-lg"><span className="text-accent">Cedro</span> Novaterra</span>
               </div>
             </motion.div>
             <motion.p
@@ -110,7 +110,7 @@ export default function Footer() {
 
         <div className="border-t border-white/5 pt-8 flex flex-col sm:flex-row justify-between items-center gap-4">
           <p className="text-gray-500 text-xs">
-            &copy; {new Date().getFullYear()} Residencial Paraíso. Todos los derechos reservados.
+            &copy; {new Date().getFullYear()} Cedro Novaterra. Todos los derechos reservados.
           </p>
           <div className="flex gap-4 text-xs text-gray-500">
             <a href="#" className="hover:text-accent transition-colors">Política de Privacidad</a>

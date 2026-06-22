@@ -1,4 +1,4 @@
-# 🏠 Cerro Novaterra — Sitio Web Demo
+# 🏠 Cedro Novaterra — Sitio Web Demo
 
 Demo de plataforma web para conjunto residencial con servicios exclusivos. Muestra las instalaciones, permite reservar espacios, y presenta planes para residentes.
 
